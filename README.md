@@ -1,1 +1,1 @@
-# ANPR
+# ANPR - Automatic Number Plate Recognition
