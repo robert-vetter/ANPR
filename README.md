@@ -1,9 +1,15 @@
-# ANPR - Automatic Number Plate Recognition
+# ANPR — Automatic Number Plate Recognition
 
-## 📌 Overview
-This project implements **Automatic Number Plate Recognition (ANPR)** using computer vision techniques.
+Detects vehicle number plates in images and reads them with OCR. Built as a set
+of Jupyter notebooks covering image collection, model training, and detection,
+with results logged to CSV.
 
-## 🚀 Features
-- Detects and extracts license plates from images.
-- Uses OCR for text recognition.
-- Supports multiple plate formats and regions.
+## Tech
+
+- Python, Jupyter
+- TensorFlow Object Detection API (plate detection)
+- EasyOCR (text recognition), OpenCV
+
+## Status
+
+A computer-vision learning project.
